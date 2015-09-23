@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "0.0.0",
+  "homepage": "https://github.com/codedogfish/angular-in-action",
+  "authors": [
+    "codedogfish <jackcool1989@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-mocks": "~1.4.6",
+    "angular-route": "~1.4.6",
+    "angularjs-scope.safeapply": "*",
+    "bootstrap": "bootstrap.css#~2.3.2",
+    "components-font-awesome": "~4.4.0"
+  }
+}
